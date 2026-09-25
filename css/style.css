@@ -1012,6 +1012,16 @@ form label {
     padding: 3em 0;
   }
 }
+@media screen and (max-width: 767px) {
+  #fh5co-header {
+      background-size: cover;
+      background-position: center center !important;
+  }
+  #fh5co-event {
+      background-size: cover;
+      background-position: center center !important;
+  }
+}
 
 .fh5co-section-gray {
   background: rgba(0, 0, 0, 0.04);
